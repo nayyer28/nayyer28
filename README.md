@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nayyersaahil28
+- 👋 Hi, I’m Saahil
 - ✨ Studying M.Sc Computer Science @www.tu-darmstadt.de
 - 👀 I’m interested in ... Fullstack Development, Machine Learning and Data Science
 - 🌱 I’m currently learning ... most of what I mentioned above. :D
